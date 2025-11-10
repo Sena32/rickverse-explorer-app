@@ -44,10 +44,10 @@ Permite visualizar personagens, localizações e episódios do universo de *Rick
 
 ```bash
 # Clone este repositório
-git clone https://github.com/Sena32/rickverse-explorer.git
+git clone https://github.com/Sena32/rickverse-explorer-app.git
 
 # Acesse a pasta do projeto
-cd rickverse-explorer
+cd rickverse-explorer-app
 ```
 <br />
 <div align="center">
